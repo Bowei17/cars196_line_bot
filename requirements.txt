@@ -1,0 +1,13 @@
+line-bot-sdk==1.5.0
+clu==0.0.1-alpha.2
+flax==0.2.2
+ml_collections==0.1.0
+numpy==1.18.5
+Flask==0.12.2 
+jaxlib==0.1.57
+tensorflow-probability==0.11.1
+Pillow==8.0.1
+ml-collections==0.1.0
+requests==2.25.1
+gunicorn==19.7.0
+python-dotenv==0.7.1
